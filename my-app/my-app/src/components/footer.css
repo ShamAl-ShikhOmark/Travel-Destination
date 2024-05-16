@@ -1,0 +1,8 @@
+
+footer{
+    background-color: aliceblue;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
